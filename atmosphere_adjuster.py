@@ -19,7 +19,7 @@ from pydub import AudioSegment
 """
 GLOBALS
 """
-lib_dir = r'/mnt/raiddrives/Movies_Series'
+lib_dir = r'/path/to/your/mp3files/parent/dir'
 
 """
 ##############################################################################
